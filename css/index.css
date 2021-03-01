@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+.parallax {
+	height: 740px;
+	text-align: center;
+	background-image: url(../img/bc_parallax.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: Arial;
+	padding-top: 180px;
+	color: #fff;
+}
+li {
+	display: inline-block;
+	margin: 0px 10px;
+}
+nav {
+	background-color: #009BD3;
+	font-size: 25px;
+	height: 50px;
+	font-family: Arial;
+	text-align: center;
+}
+a {
+	color: #fff;
+}
+body {
+	background-color: #EDFAFF;
+	height: 200vh;
+	font-family: Arial;
+}
+section {
+	background-color: #fff;
+	margin: 0px 250px;
+}
+article {
+	padding: 10px;
+}
+p {
+	margin: 20px;
+}
